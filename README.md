@@ -1,3 +1,4 @@
 # blog
-## alton_br
-check out more of my work at altonbrailovskiy.com
+# alton_br 
+
+Check out more of my work at [altonbrailovskiy.com](https://altonbrailovskiy.com)
